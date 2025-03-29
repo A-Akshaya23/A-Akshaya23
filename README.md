@@ -27,4 +27,4 @@ TCS iON NQT Cognitive Exam (Qualified)
 
 📫 Connect with Me
 📧 Email: aakshayamalu.61505@gmail.com
-www.linkedin.com/in/akshaya-a-9ab440254 | 🐙 GitHub
+www.linkedin.com/in/akshaya-a-9ab440254 | https://github.com/A-Akshaya23/A-Akshaya23.git
