@@ -1,16 +1,30 @@
-## Hi there 👋
+👋 Hi, I'm Akshaya A!
+🎓 B.Sc. Data Analytics | Passionate About Data & Insights
 
-<!--
-**A-Akshaya23/A-Akshaya23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+🔹 Aspiring Data Analyst | AI & SAS SQL Intern Experience
+🔹 Tech Stack: Python, SQL, Power BI, Tableau
+🔹 Certified in: Data Analytics, Java, AWS, Cybersecurity
 
-Here are some ideas to get you started:
+📌 Projects
+🔹 Crime Data Analysis (Python, SQL, Visualization) – GitHub Repo
+🔹 Upcoming: Sales Data Analysis (SQL & Power BI)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📜 Certifications
+Data Analytics – Green Technologies
+
+Core & Advanced Java – Green Technologies
+
+AWS Cloud Practitioner Essentials – AWS
+
+Introduction to Cybersecurity – Cisco (ICT Academy)
+
+AI Internship – DLK Career Development
+
+Amazon ML & AI (In Progress)
+
+TCS iON NQT Cognitive Exam (Qualified)
+
+📫 Connect with Me
+📧 Email: aakshayamalu.61505@gmail.com
+www.linkedin.com/in/akshaya-a-9ab440254 | 🐙 GitHub
